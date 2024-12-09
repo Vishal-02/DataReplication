@@ -1,0 +1,62 @@
+version 3
+run General-0-20241209-00:31:42-151644
+attr configname General
+attr datetime 20241209-00:31:42
+attr datetimef 20241209-003142
+attr experiment General
+attr inifile omnetpp.ini
+attr iterationvars ""
+attr iterationvarsd ""
+attr iterationvarsf ""
+attr measurement ""
+attr network DataReplicationNetwork
+attr processid 151644
+attr repetition 0
+attr replication #0
+attr resultdir results
+attr runnumber 0
+attr seedset 0
+config network DataReplicationNetwork
+config sim-time-limit 1000s
+config **.edgeNode[*].dataAccessRate 10
+config *.seed 42
+config *.recordEventStats true
+
+par DataReplicationNetwork.replicationManager typename "\"ReplicationManager\""
+par DataReplicationNetwork.edgeNode1 typename "\"EdgeNode\""
+par DataReplicationNetwork.edgeNode1 type "\"edge\""
+par DataReplicationNetwork.edgeNode1 nodeId 1
+par DataReplicationNetwork.edgeNode2 typename "\"EdgeNode\""
+par DataReplicationNetwork.edgeNode2 type "\"edge\""
+par DataReplicationNetwork.edgeNode2 nodeId 2
+par DataReplicationNetwork.edgeNode3 typename "\"EdgeNode\""
+par DataReplicationNetwork.edgeNode3 type "\"edge\""
+par DataReplicationNetwork.edgeNode3 nodeId 3
+par DataReplicationNetwork.edgeNode4 typename "\"EdgeNode\""
+par DataReplicationNetwork.edgeNode4 type "\"edge\""
+par DataReplicationNetwork.edgeNode4 nodeId 4
+par DataReplicationNetwork.edgeNode5 typename "\"EdgeNode\""
+par DataReplicationNetwork.edgeNode5 type "\"edge\""
+par DataReplicationNetwork.edgeNode5 nodeId 5
+par DataReplicationNetwork.coreNode1 typename "\"CoreNode\""
+par DataReplicationNetwork.coreNode1 type "\"core\""
+par DataReplicationNetwork.coreNode1 nodeId 0
+par DataReplicationNetwork.user1 typename "\"User\""
+par DataReplicationNetwork.user1 userId "\"u1\""
+par DataReplicationNetwork.user1 requestInterval 1
+par DataReplicationNetwork.user2 typename "\"User\""
+par DataReplicationNetwork.user2 userId "\"u2\""
+par DataReplicationNetwork.user2 requestInterval 1
+par DataReplicationNetwork.user3 typename "\"User\""
+par DataReplicationNetwork.user3 userId "\"u3\""
+par DataReplicationNetwork.user3 requestInterval 1
+par DataReplicationNetwork.user4 typename "\"User\""
+par DataReplicationNetwork.user4 userId "\"u4\""
+par DataReplicationNetwork.user4 requestInterval 1
+par DataReplicationNetwork.user5 typename "\"User\""
+par DataReplicationNetwork.user5 userId "\"u5\""
+par DataReplicationNetwork.user5 requestInterval 1
+par DataReplicationNetwork typename "\"DataReplicationNetwork\""
+par DataReplicationNetwork edgeNodeCount 5
+par DataReplicationNetwork userCount 5
+

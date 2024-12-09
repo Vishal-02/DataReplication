@@ -1,0 +1,602 @@
+[
+    {
+        "id": "web1",
+        "size": 3300,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "v1",
+        "size": 3409,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "web2",
+        "size": 1019,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "v2",
+        "size": 4905,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "web3",
+        "size": 3422,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "v3",
+        "size": 872,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "d1",
+        "size": 518,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "v4",
+        "size": 1328,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "d2",
+        "size": 2268,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "v5",
+        "size": 663,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "web4",
+        "size": 504,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "d3",
+        "size": 4318,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "v6",
+        "size": 4120,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "d4",
+        "size": 4969,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "web5",
+        "size": 1306,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "web6",
+        "size": 1954,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "d5",
+        "size": 3452,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "web7",
+        "size": 762,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "web8",
+        "size": 2406,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "web9",
+        "size": 4105,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "v7",
+        "size": 2170,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "web10",
+        "size": 3261,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "v8",
+        "size": 4423,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "v9",
+        "size": 3475,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "web11",
+        "size": 4773,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "web12",
+        "size": 2641,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "web13",
+        "size": 2603,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "d6",
+        "size": 4660,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "v10",
+        "size": 4065,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "v11",
+        "size": 4106,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "v12",
+        "size": 4630,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "v13",
+        "size": 3405,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "web14",
+        "size": 4775,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "d7",
+        "size": 2245,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "v14",
+        "size": 3504,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "d8",
+        "size": 3106,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "d9",
+        "size": 3080,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "v15",
+        "size": 2537,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "d10",
+        "size": 1994,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "v16",
+        "size": 4212,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "d11",
+        "size": 2456,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "v17",
+        "size": 2242,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "web15",
+        "size": 4098,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "v18",
+        "size": 3694,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "v19",
+        "size": 3286,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "v20",
+        "size": 3587,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "v21",
+        "size": 2619,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "web16",
+        "size": 1166,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "d12",
+        "size": 2151,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "d13",
+        "size": 3326,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "d14",
+        "size": 3448,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "web17",
+        "size": 1744,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "v22",
+        "size": 4155,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "web18",
+        "size": 1491,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "d15",
+        "size": 4844,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "web19",
+        "size": 4009,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "v23",
+        "size": 3881,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "v24",
+        "size": 503,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "v25",
+        "size": 1723,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "web20",
+        "size": 2559,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "v26",
+        "size": 4688,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "web21",
+        "size": 2262,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "v27",
+        "size": 520,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "d16",
+        "size": 945,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "v28",
+        "size": 4912,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "d17",
+        "size": 3596,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "web22",
+        "size": 2274,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "v29",
+        "size": 3491,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "d18",
+        "size": 4923,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "v30",
+        "size": 4987,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "web23",
+        "size": 2061,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "web24",
+        "size": 4935,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "d19",
+        "size": 2854,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "web25",
+        "size": 4054,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "v31",
+        "size": 3711,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "d20",
+        "size": 3289,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "d21",
+        "size": 1475,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "d22",
+        "size": 3892,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "v32",
+        "size": 2663,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "d23",
+        "size": 859,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "d24",
+        "size": 4502,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "v33",
+        "size": 3439,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "d25",
+        "size": 3470,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "web26",
+        "size": 3914,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "v34",
+        "size": 871,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "d26",
+        "size": 3929,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "d27",
+        "size": 1297,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "v35",
+        "size": 1147,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "web27",
+        "size": 993,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "web28",
+        "size": 4130,
+        "type": "webpage",
+        "access_frequency": 0
+    },
+    {
+        "id": "d28",
+        "size": 1281,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "d29",
+        "size": 3314,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "v36",
+        "size": 4030,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "d30",
+        "size": 4056,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "v37",
+        "size": 3628,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "d31",
+        "size": 3441,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "v38",
+        "size": 4611,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "v39",
+        "size": 4142,
+        "type": "video",
+        "access_frequency": 0
+    },
+    {
+        "id": "d32",
+        "size": 3555,
+        "type": "document",
+        "access_frequency": 0
+    },
+    {
+        "id": "d33",
+        "size": 3407,
+        "type": "document",
+        "access_frequency": 0
+    }
+]
